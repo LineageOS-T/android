@@ -184,4 +184,7 @@
   <!-- hw/ximi -->
   <project path="hardware/xiaomi" name="los-ginkgo/android_hardware_xiaomi" revision="lineage-20" />
 
+  <!-- Gamespace -->
+  <project path="packages/apps/GameSpace" name="los-ginkgo/android_packages_apps_GameSpace" />
+
 </manifest>
